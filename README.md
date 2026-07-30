@@ -58,7 +58,8 @@ visitor-Counter/
 ```
 
 ## 📸 Interface Preview
-*(Insert visual demonstrations, screenshots, or GIFs of the application interface here to provide a quick preview of the dashboard and widget.)*
+<img width="858" height="433" alt="image" src="https://github.com/user-attachments/assets/c2794644-9157-47ba-b81a-e1d7c8206b60" />
+
 
 ## 🚀 Installation & Deployment
 
